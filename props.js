@@ -1,10 +1,10 @@
 module.exports = {
-    baseUrl : 'http://ussltccsl1825.solutions.glbsnet.com:8002/sap/opu/odata/SAP/ZODATA_SERVICE_SRV/',
+    baseUrl : '<ODATA SERVICE URL>',
     urlOptions: {
-        hostname : `ussltccsl1825.solutions.glbsnet.com`,
-        port : 8002,
-        path : `/sap/opu/odata/SAP/ZODATA_SERVICE_SRV/`
+        hostname : `<hostname>`,
+        port : '<port>',
+        path : `<Path>`
     },
-    username: 'Trainee88',
-    password: 'Password123'
+    username: '<username>',
+    password: '<password>'
 }
